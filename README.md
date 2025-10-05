@@ -1,5 +1,3 @@
-# version-control-notes
-
 # Git & GitHub Notes
 
 This repository contains notes, examples, and exercises to help understand **Git** and **GitHub** concepts.  
